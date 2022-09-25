@@ -1,11 +1,28 @@
 # The Bayesian Mass Explorer
 
+[![DOI](https://zenodo.org/badge/541321725.svg)](https://zenodo.org/badge/latestdoi/541321725)
+
 This repository is the reference point for the various moving parts that makes bmex tick.
 
 Visit [here](https://github.com/massexplorer/bmex-web) for the bmex web application source.
 
 Visit [here](https://github.com/massexplorer/bmex-static) for the bmex static frontend source.
 
-You can cite the BMEX framework using the following DOI:
+If you'd like to cite the BMEX framework, you can use the following style or the provided bibtex entry:
 
-[![DOI](https://zenodo.org/badge/541321725.svg)](https://zenodo.org/badge/latestdoi/541321725)
+```
+Godbey, K., & Giuliani, P. BMEX - The Bayesian Mass Explorer. https://doi.org/10.5281/zenodo.7111988
+```
+
+```
+@software{bmex,
+  author       = {Godbey, Kyle and
+                  Giuliani, Pablo},
+  title        = {{BMEX} - {T}he {B}ayesian {M}ass {E}xplorer},
+  month        = sep,
+  year         = 2022,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.7111988},
+  url          = {https://doi.org/10.5281/zenodo.7111988}
+}
+```
