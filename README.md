@@ -4,7 +4,7 @@
 
 This repository is the reference point for the various moving parts that makes bmex tick.
 
-Visit [here](https://github.com/massexplorer/bmex-web) for the bmex web application source.
+Visit [here](https://github.com/massexplorer/bmex-masses) for the bmex masses web application source.
 
 Visit [here](https://github.com/massexplorer/bmex-static) for the bmex static frontend source.
 
@@ -16,11 +16,11 @@ Godbey, K., & Giuliani, P. BMEX - The Bayesian Mass Explorer. https://doi.org/10
 
 ```
 @software{bmex,
-  author       = {Godbey, Kyle and
+  author       = {Kyle Godbey, Landon Buskirk, and
                   Giuliani, Pablo},
   title        = {{BMEX} - {T}he {B}ayesian {M}ass {E}xplorer},
   month        = sep,
-  year         = 2022,
+  year         = 2023,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7111988},
   url          = {https://doi.org/10.5281/zenodo.7111988}
