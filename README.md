@@ -11,13 +11,13 @@ Visit [here](https://github.com/massexplorer/bmex-static) for the bmex static fr
 If you'd like to cite the BMEX framework, you can use the following style or the provided bibtex entry:
 
 ```
-Godbey, K., & Giuliani, P. BMEX - The Bayesian Mass Explorer. https://doi.org/10.5281/zenodo.7111988
+Kyle Godbey, Landon Buskirk, and Pablo Giuliani BMEX - The Bayesian Mass Explorer. https://doi.org/10.5281/zenodo.7111988
 ```
 
 ```
 @software{bmex,
   author       = {Kyle Godbey, Landon Buskirk, and
-                  Giuliani, Pablo},
+                  Pablo Giuliani},
   title        = {{BMEX} - {T}he {B}ayesian {M}ass {E}xplorer},
   month        = sep,
   year         = 2023,
