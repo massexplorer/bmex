@@ -16,8 +16,7 @@ Kyle Godbey, Landon Buskirk, Troy Dasher, and Pablo Giuliani BMEX - The Bayesian
 
 ```
 @software{bmex,
-  author       = {Kyle Godbey, Landon Buskirk, Troy Dasher, and
-                  Pablo Giuliani},
+  author       = {Kyle Godbey and Landon Buskirk and Troy Dasher and Pablo Giuliani},
   title        = {{BMEX} - {T}he {B}ayesian {M}ass {E}xplorer},
   month        = jul,
   year         = 2025,
